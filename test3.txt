@@ -1,2 +1,0 @@
-This is test3.txt file
-1234567890
